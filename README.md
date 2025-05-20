@@ -188,11 +188,7 @@ npm run dev
 - **Docker & Docker Compose**
 - **Nodemon**
 
-## 👨‍💻 Contributors
 
-<a href="https://github.com/trahulprabhu38/project-1/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=trahulprabhu38/project-1" />
-</a>
 
 
 
