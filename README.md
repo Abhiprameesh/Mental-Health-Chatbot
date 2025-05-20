@@ -9,7 +9,7 @@ This project consists of two main components:
 
 ```
 Directory structure:
-└── trahulprabhu38-project-1/
+└── Mental-Health-Chatbot/
     ├── README.md
     ├── Docker-compose.yaml
     ├── .gitIgnore
